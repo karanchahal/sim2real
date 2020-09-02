@@ -1,0 +1,5 @@
+pip install gym
+pip install pytorch torchvision
+pip install mujoco_py
+pip install python-dateutil
+pip install gtimer
